@@ -16,28 +16,28 @@
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Esther Sun ",
+    "title": "Esther Sun",
     "section": "About Me",
     "text": "About Me\n\nI am a Master’s student at Carnegie Mellon University (Class of 2026), where I focus on Multimodal Machine Learning. I am privileged to be supervised by Prof. Carlos Busso. My academic journey began at the University of Toronto, where I earned an Honors Bachelor of Science with a double major in Computer Science and Statistical Science. During my undergraduate years, I also spent time as an exchange student at Tsinghua University’s Institute for Interdisciplinary Information Sciences (IIIS/Yao Class).\nMy research trajectory has evolved from Multimodal CV-NLP, with a specific focus on explainable image forgery detection and multimodal fact verification, to my current specialization in Multimodal Emotion Recognition and AI Persona. I am particularly interested in developing agentic frameworks, such as ADEPT (Agentic Decoding of Emotion via Probing Tools), which leverage MLLMs and reinforcement learning (GRPO) to generate evidence-grounded rationales for emotional ambiguity."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Esther Sun ",
+    "title": "Esther Sun",
     "section": "Education",
     "text": "Education\n\n\n\n\nCarnegie Mellon University\nMaster Student | 📍 Pittsburgh, PA\nFocus: Multimodal Machine Learning\n\n\n\n\n\nUniversity of Toronto\nHonors B.Sc. | 📍 Toronto, Canada\nDouble Major: Computer Science & Statistical Science\n\n\n\n\n\nTsinghua University\nExchange Student | IIIS (Yao Class) | 📍 Beijing, China"
   },
   {
     "objectID": "index.html#publications",
     "href": "index.html#publications",
-    "title": "Esther Sun ",
+    "title": "Esther Sun",
     "section": "Publications",
     "text": "Publications\n\n\n\n\n\nICML 2026 Under Review\n\nADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning\nFirst Author\nAgentic LLM reasoning · Tool-augmented inference · RL alignment (GRPO)\n\n\n\n\n\n\nICASSP 2026 Accepted\n\nRecovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration\nFirst Author\nDiscrete Audio Tokenization · Multi-layer Attention Fusion · SSL · Neural Codecs\n\n\n\n\n\n\nNeurIPS 2025 Workshop Accepted\n\nSystematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications\nFirst Author | 🔗 Paper\nAI Companionship · Embodied Intelligence · Technical Taxonomy\n\n\n\n\n\n\nIEEE TPAMI 2024 Under Review\n\nForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization\nCo-author\nFine-grained forgery localization · Vision–language reasoning · Multimodal LLM grounding\n\n\n\n\n\n\nACM MM 2023 Accepted\n\nECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification\nCo-author\nDual-granularity Attention · Cross-modal Alignment · Hierarchical Reasoning\n\n\n\n\n\n\nAAAI 2023 Accepted\n\nUnimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification\nCo-author\nMultimodal feature engineering · Cross-modal correlation learning"
   },
   {
     "objectID": "index.html#professional-experience",
     "href": "index.html#professional-experience",
-    "title": "Esther Sun ",
+    "title": "Esther Sun",
     "section": "Professional Experience",
     "text": "Professional Experience\n\n\n\n\nData Scientist Intern — Moneris\n📍 Toronto, Canada · May 2022 – Sep 2023 (16-month)\nMachine Learning Systems · Imbalanced Learning · Feature Engineering · Production ML Pipelines\n\n\n\n\n\nArt Studio Assistant\nSummer 2019\nIllustration & Visual Storytelling · Visual Design · Color Composition"
   },
