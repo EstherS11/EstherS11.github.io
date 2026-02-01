@@ -1,5 +1,6 @@
 ---
 title: "Esther Sun"
+title-block-style: none
 ---
 
 ::: {.name-header}
