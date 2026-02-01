@@ -590,7 +590,10 @@ h2 a:hover {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  align-items: flex-end;
+}
+
+.quick-links p {
+  margin: 0;
   text-align: right;
 }
 
