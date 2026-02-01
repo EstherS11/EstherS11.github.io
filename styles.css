@@ -604,18 +604,18 @@ h2 a:hover {
 
 /* ========== Mobile Responsive Styles ========== */
 @media (max-width: 768px) {
-  /* Navbar white background on mobile */
+  /* Navbar red background on mobile */
   .navbar {
-    background-color: #fff !important;
+    background-color: #94373c !important;
   }
 
   .navbar .nav-link,
   .navbar .menu-text {
-    color: #94373c !important;
+    color: #fff !important;
   }
 
   .navbar-toggler-icon {
-    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%2394373c' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
   }
   /* Two-column layout becomes single column */
   .columns {
