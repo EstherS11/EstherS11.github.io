@@ -43,7 +43,7 @@ My research trajectory has evolved from Multimodal CV-NLP, with a specific focus
 ::: {.edu-info}
 **Carnegie Mellon University**
 
-Master Student | 📍 Pittsburgh, PA
+Master Student | 📍 Pittsburgh, USA
 
 Focus: Multimodal Machine Learning
 :::
