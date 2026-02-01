@@ -583,3 +583,104 @@ h2 a {
 h2 a:hover {
   text-decoration: underline;
 }
+
+/* ========== Mobile Responsive Styles ========== */
+@media (max-width: 768px) {
+  /* Two-column layout becomes single column */
+  .columns {
+    flex-direction: column !important;
+    flex-wrap: wrap !important;
+  }
+
+  .columns > .column:first-child,
+  .columns > .column:last-child {
+    flex: 1 1 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .columns > .column:first-child img {
+    max-width: 280px;
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Publications grid becomes single column */
+  .publication-list {
+    grid-template-columns: 1fr;
+  }
+
+  /* Publication page horizontal layout becomes vertical */
+  .pub-page-item {
+    flex-direction: column;
+  }
+
+  .pub-page-img {
+    width: 100%;
+    height: auto;
+  }
+
+  .pub-img-stack .pub-page-img {
+    width: 100%;
+  }
+
+  /* Gallery becomes 2 columns on tablet, 1 on phone */
+  .gallery-container {
+    column-count: 2;
+  }
+
+  /* Education and experience items stack better */
+  .education-item,
+  .experience-item {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .edu-logo,
+  .exp-logo {
+    margin-bottom: 10px;
+  }
+
+  /* Name header adjustments */
+  .name-header h1 {
+    font-size: 1.8em;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  /* Navbar logo smaller on mobile */
+  .navbar-logo {
+    height: 40px !important;
+  }
+
+  /* Content padding */
+  #quarto-content {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Even smaller screens */
+  .gallery-container {
+    column-count: 1;
+  }
+
+  .name-header h1 {
+    font-size: 1.5em;
+  }
+
+  .pub-tags {
+    justify-content: center;
+  }
+
+  .venue, .status {
+    font-size: 0.7em;
+    padding: 3px 8px;
+  }
+
+  .keyword {
+    font-size: 0.65em;
+    padding: 2px 8px;
+  }
+}
