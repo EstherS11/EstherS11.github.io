@@ -1,0 +1,191 @@
+---
+title: ""
+---
+
+::: {.name-header}
+# Esther Sun ![](logos/2600.png){.name-icon}
+:::
+
+::: {.columns}
+
+::: {.column width="40%"}
+![](ES.png)
+:::
+
+::: {.column width="60%"}
+## About Me
+
+::: {.about-text}
+I am a Master's student at **Carnegie Mellon University** (Class of 2026), where I focus on Multimodal Machine Learning. I am privileged to be supervised by [Prof. Carlos Busso](https://carlosbusso.com/). My academic journey began at the **University of Toronto**, where I earned an Honors Bachelor of Science with a double major in Computer Science and Statistical Science. During my undergraduate years, I also spent time as an exchange student at **Tsinghua University's** Institute for Interdisciplinary Information Sciences (IIIS/Yao Class).
+
+My research trajectory has evolved from Multimodal CV-NLP, with a specific focus on explainable image forgery detection and multimodal fact verification, to my current specialization in [**Multimodal Emotion Recognition**]{.highlight-bold} and [**AI Persona**]{.highlight-bold}. I am particularly interested in developing agentic frameworks, such as ADEPT (Agentic Decoding of Emotion via Probing Tools), which leverage MLLMs and reinforcement learning (GRPO) to generate evidence-grounded rationales for emotional ambiguity.
+:::
+:::
+
+:::
+
+## Education
+
+::: {.education-container}
+
+::: {.education-item}
+![](logos/cmu.png){.edu-logo}
+
+::: {.edu-info}
+**Carnegie Mellon University**
+
+Master Student | 📍 Pittsburgh, PA
+
+Focus: Multimodal Machine Learning
+:::
+:::
+
+::: {.education-item}
+![](logos/uoft.jpg){.edu-logo}
+
+::: {.edu-info}
+**University of Toronto**
+
+Honors B.Sc. | 📍 Toronto, Canada
+
+Double Major: Computer Science & Statistical Science
+:::
+:::
+
+::: {.education-item}
+![](logos/Tsinghua_University_Logo.svg){.edu-logo}
+
+::: {.edu-info}
+**Tsinghua University**
+
+Exchange Student | IIIS (Yao Class) | 📍 Beijing, China
+:::
+:::
+
+:::
+
+## [**Publications**](publications.html)
+
+::: {.publication-list}
+
+::: {.pub-item}
+![](paper_pics/ADEPT.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[ICML 2026]{.venue .venue-icml} [Under Review]{.status .status-review}
+:::
+[**ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning**](publications.html#adept)
+
+First Author
+
+[Agentic LLM reasoning]{.keyword} · [Tool-augmented inference]{.keyword} · [RL alignment (GRPO)]{.keyword}
+:::
+:::
+
+::: {.pub-item}
+![](paper_pics/RECOVERING.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[ICASSP 2026]{.venue .venue-icassp} [Accepted]{.status .status-accepted}
+:::
+[**Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration**](publications.html#recovering)
+
+First Author
+
+[Discrete Audio Tokenization]{.keyword} · [Multi-layer Attention Fusion]{.keyword} · [SSL]{.keyword} · [Neural Codecs]{.keyword}
+:::
+:::
+
+::: {.pub-item}
+![](paper_pics/Systematizing.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[NeurIPS 2025]{.venue .venue-neurips} [Workshop]{.status .status-workshop} [Accepted]{.status .status-accepted}
+:::
+[**Systematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications**](publications.html#systematizing)
+
+First Author | [🔗 Paper](https://arxiv.org/abs/2511.02979)
+
+[AI Companionship]{.keyword} · [Embodied Intelligence]{.keyword} · [Technical Taxonomy]{.keyword}
+:::
+:::
+
+::: {.pub-item}
+![](paper_pics/ForgeryGPT.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[IEEE TPAMI 2024]{.venue .venue-tpami} [Under Review]{.status .status-review}
+:::
+[**ForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization**](publications.html#forgerygpt)
+
+Co-author
+
+[Fine-grained forgery localization]{.keyword} · [Vision–language reasoning]{.keyword} · [Multimodal LLM grounding]{.keyword}
+:::
+:::
+
+::: {.pub-item}
+![](paper_pics/ECENet.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[ACM MM 2023]{.venue .venue-acm} [Accepted]{.status .status-accepted}
+:::
+[**ECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification**](publications.html#ecenet)
+
+Co-author
+
+[Dual-granularity Attention]{.keyword} · [Cross-modal Alignment]{.keyword} · [Hierarchical Reasoning]{.keyword}
+:::
+:::
+
+::: {.pub-item}
+![](paper_pics/AAAI.png){.pub-img}
+
+::: {.pub-content}
+::: {.pub-tags}
+[AAAI 2023]{.venue .venue-aaai} [Accepted]{.status .status-accepted}
+:::
+[**Unimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification**](publications.html#aaai)
+
+Co-author
+
+[Multimodal feature engineering]{.keyword} · [Cross-modal correlation learning]{.keyword}
+:::
+:::
+
+:::
+
+## Professional Experience
+
+::: {.experience-container}
+
+::: {.experience-item}
+![](logos/Moneris-Logo-Navy-2025.png){.exp-logo}
+
+::: {.exp-info}
+**Data Scientist Intern — Moneris**
+
+📍 Toronto, Canada · May 2022 – Sep 2023 (16-month)
+
+[Machine Learning Systems]{.keyword} · [Imbalanced Learning]{.keyword} · [Feature Engineering]{.keyword} · [Production ML Pipelines]{.keyword}
+:::
+:::
+
+::: {.experience-item}
+![](logos/China_Central_Academy_of_Fine_Arts_logo.png){.exp-logo}
+
+::: {.exp-info}
+**Art Studio Assistant**
+
+Summer 2019
+
+[Illustration & Visual Storytelling]{.keyword} · [Visual Design]{.keyword} · [Color Composition]{.keyword}
+:::
+:::
+
+:::

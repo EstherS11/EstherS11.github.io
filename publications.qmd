@@ -1,0 +1,178 @@
+---
+title: "Publications"
+---
+
+::: {.pub-page-list}
+
+::: {.pub-page-item #adept}
+::: {.pub-img-stack}
+![](paper_pics/ADEPT.png){.pub-page-img}
+
+![](paper_pics/agent.png){.pub-page-img}
+:::
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[ICML 2026]{.venue .venue-icml} [Under Review]{.status .status-review}
+:::
+**ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning**
+
+First Author
+
+[Agentic LLM reasoning]{.keyword} · [Tool-augmented inference]{.keyword} · [RL alignment (GRPO)]{.keyword}
+
+::: {.pub-tldr}
+**TL;DR:** Proposes ADEPT, a pioneering agentic framework that transforms Speech Emotion Recognition (SER) from a static classification task into an active, evidence-grounded reasoning process using RL-aligned MLLMs. Crucially, ADEPT enables a paradigm shift from consensus learning to ambiguity-driven emotion reasoning.
+
+::: {.pub-keypoints}
+**Key Points:**
+
+- **Agentic Framework:** Developed an autonomous MLLM-based agent capable of dynamic tool-use, programmatically invoking a specialized toolkit of semantic and acoustic probes to analyze paralinguistic cues.
+- **Evidence-Grounded Rationalization:** Enables the generation of high-fidelity rationales anchored in physical acoustic evidence—such as pitch trajectories and energy profiles—to mitigate inherent linguistic bias and enhance interpretability.
+- **Reinforcement Learning Alignment:** Implemented Group Relative Policy Optimization (GRPO) to align the agent's multi-step reasoning trajectories with human-expert consensus and logical rigor.
+- **Ambiguity-Driven Reasoning:** Systematically addresses annotator disagreement by modeling emotional ambiguity through a multi-turn, consensus-driven inquiry process, improving robustness on challenging datasets like MSP-Podcast and IEMOCAP.
+:::
+:::
+:::
+:::
+
+::: {.pub-page-item #recovering}
+![](paper_pics/RECOVERING.png){.pub-page-img}
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[ICASSP 2026]{.venue .venue-icassp} [Accepted]{.status .status-accepted}
+:::
+**Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration**
+
+First Author
+
+[Discrete Audio Tokenization]{.keyword} · [Multi-layer Attention Fusion]{.keyword} · [SSL]{.keyword} · [Neural Codecs]{.keyword}
+
+::: {.pub-tldr-icassp}
+**TL;DR:** Introduces a multi-layer fusion framework to recover the significant performance loss in Speech Emotion Recognition (SER) caused by audio discretization, enabling semantic-rich discrete tokens to rival high-fidelity continuous features.
+
+::: {.pub-keypoints}
+**Key Points:**
+
+- **Performance Recovery:** Developed a novel framework that recovers 75% of the performance drop induced by discretization by integrating multi-layer WavLM tokens with 74-dimensional openSMILE paralinguistic features.
+- **Architecture Innovation:** Designed and benchmarked dual fusion strategies—Layer-First and Modality-First—achieving an 8% gain with the Layer-First approach by prioritizing hierarchical feature extraction.
+- **Ablation & Trade-offs:** Conducted systematic studies across 24 WavLM layers and 5 codebook sizes (K=256 to 4000) to identify optimal compression-accuracy trade-offs for emotion preservation.
+- **Neural Codec Benchmarking:** Evaluated against three major neural codecs (SpeechTokenizer, DAC, and EnCodec), demonstrating that semantic-rich SSL tokens provide a 50%+ performance advantage over reconstruction-focused models for downstream SER tasks.
+:::
+:::
+:::
+:::
+
+::: {.pub-page-item #systematizing}
+::: {.pub-img-stack}
+![](paper_pics/Systematizing.png){.pub-page-img}
+
+![](paper_pics/taxonomy.png){.pub-page-img}
+:::
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[NeurIPS 2025]{.venue .venue-neurips} [Workshop]{.status .status-workshop} [Accepted]{.status .status-accepted}
+:::
+**Systematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications**
+
+First Author | [🔗 Paper](https://arxiv.org/abs/2511.02979)
+
+[AI Companionship]{.keyword} · [Embodied Intelligence]{.keyword} · [Technical Taxonomy]{.keyword}
+
+::: {.pub-tldr-neurips}
+**TL;DR:** Systematizes the fragmented landscape of AI persona design by introducing a novel four-quadrant technical taxonomy that maps companion applications from virtual agents to embodied systems, providing actionable design guidelines for researchers and practitioners.
+
+::: {.pub-keypoints}
+**Key Points:**
+
+- **Four-Quadrant Taxonomy:** Proposed a systematic framework categorizing AI companions along two orthogonal axes—embodiment level and interaction modality—to clarify design trade-offs across diverse application domains.
+- **Technical Design Patterns:** Identified and documented recurring architectural patterns for persona consistency, memory management, and emotional coherence across 50+ commercial and research systems.
+- **Embodiment Spectrum Analysis:** Analyzed the progression from text-only virtual companions to fully embodied robotic agents, mapping key technical challenges at each stage of the embodiment continuum.
+- **Actionable Guidelines:** Synthesized practical design recommendations for balancing persona authenticity, user safety, and system scalability in real-world AI companion deployments.
+:::
+:::
+:::
+:::
+
+::: {.pub-page-item #forgerygpt}
+::: {.pub-img-stack}
+![](paper_pics/ForgeryGPT.png){.pub-page-img}
+
+![](paper_pics/gpt.png){.pub-page-img}
+:::
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[IEEE TPAMI 2024]{.venue .venue-tpami} [Under Review]{.status .status-review}
+:::
+**ForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization**
+
+Co-author
+
+[Fine-grained forgery localization]{.keyword} · [Vision–language reasoning]{.keyword} · [Multimodal LLM grounding]{.keyword}
+
+::: {.pub-tldr-tpami}
+**TL;DR:** Leverages Multimodal LLMs to pioneer an explainable image forgery detection and localization system that generates natural language rationales for identified visual manipulations.
+
+::: {.pub-keypoints}
+**Key Points:**
+
+- **Hybrid Vision Architecture:** Developed a "Vocabulary-enhanced Vision Encoder" integrating a trainable ViT with a frozen CLIP encoder to capture fine-grained, domain-specific forgery artifacts.
+- **Adaptive Forgery Prompting:** Proposed an "Object-agnostic Forgery Prompt" mechanism using 12-dimensional learnable embeddings to enable dynamic adaptation across diverse forgery scenarios, achieving a 15% improvement over baselines.
+- **Large-Scale Synthesis Pipeline:** Constructed a comprehensive 768K+ multimodal dataset using a multi-granularity mask generation pipeline that combines random segmentation with Segment Anything Model (SAM) techniques.
+- **Explainable Localization:** Contributed the FL-Expert module to provide precise spatial localization coupled with linguistic explanations of splicing, copy-move, and removal manipulations.
+:::
+:::
+:::
+:::
+
+::: {.pub-page-item #ecenet}
+::: {.pub-img-stack}
+![](paper_pics/ECENet.png){.pub-page-img}
+
+![](paper_pics/network.png){.pub-page-img}
+:::
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[ACM MM 2023]{.venue .venue-acm} [Accepted]{.status .status-accepted}
+:::
+**ECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification**
+
+Co-author
+
+[Dual-granularity Attention]{.keyword} · [Cross-modal Alignment]{.keyword} · [Hierarchical Reasoning]{.keyword}
+
+::: {.pub-tldr-acm}
+**TL;DR:** Introduces a state-of-the-art multimodal fact verification framework that utilizes dual-granularity attention and hierarchical reasoning to generate evidence-based justifications for news veracity.
+
+::: {.pub-keypoints}
+**Key Points:**
+
+- **Dual-Granularity Attention:** Engineered an Improved Coarse- and Fine-grained Attention Network (CFgAN) that enhanced contextual comprehension of image-text correlations by 12.1%.
+- **Hierarchical Reasoning Framework:** Developed a unified architecture for feature extraction and cross-modal fusion, enabling the system to perform complex evidence-based inference.
+- **Benchmark Leadership:** Achieved SOTA performance on major benchmarks, including 87.7% accuracy on NewsCLIPpings and an 81.5 F1-score on FACTIFY.
+- **Justification Generation:** Focused on "explainability" by ensuring the network provides logical justifications alongside its verification results, as showcased in oral and poster presentations at ACM MM 2023.
+:::
+:::
+:::
+:::
+
+::: {.pub-page-item #aaai}
+![](paper_pics/AAAI.png){.pub-page-img}
+
+::: {.pub-page-content}
+::: {.pub-tags}
+[AAAI 2023]{.venue .venue-aaai} [Accepted]{.status .status-accepted}
+:::
+**Unimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification**
+
+Co-author
+
+[Multimodal feature engineering]{.keyword} · [Cross-modal correlation learning]{.keyword}
+:::
+:::
+
+:::

@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "tsinghua.html",
+    "href": "tsinghua.html",
+    "title": "",
+    "section": "",
+    "text": "📍 With the IIIS Department Football Team\n\n\n\n\n\n\n\n\n\n\n\n📍 Photo with Turing Award winner Andrew Yao\n\n\n\n\n\n📍 Host of the Tsinghua Ma John Cup Football Final\n\n\n\n\n\n📍 Host of the Tsinghua Ma John Cup Football Final\n\n\n\n\n\n📍 Conference Photographer for MECC 2025\n\n\n\n\n\n\n\n\n📍 Soccer Referee in Tsinghua\n\n\n\n\n\n📍 Soccer Referee in Tsinghua\n\n\n\n\n\n\n\n\n📍 Poster presentation in ACM MM 2023 Owatta\n\n\n\n\n\n📍 Oral presentation in ACM MM 2023 Owatta\n\n\n\n\n\n📍 Oral presentation in ACM MM 2023 Owatta\n\n\n\n\n\n📍 ICML 2025, Vancouver\n\n\n\n\n\n📍 ICML 2025, Vancouver\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n📍 Student representative for ACM Canadian Celebration of Women in Computing Conference, Toronto"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Esther Sun ",
+    "section": "About Me",
+    "text": "About Me\n\nI am a Master’s student at Carnegie Mellon University (Class of 2026), where I focus on Multimodal Machine Learning. I am privileged to be supervised by Prof. Carlos Busso. My academic journey began at the University of Toronto, where I earned an Honors Bachelor of Science with a double major in Computer Science and Statistical Science. During my undergraduate years, I also spent time as an exchange student at Tsinghua University’s Institute for Interdisciplinary Information Sciences (IIIS/Yao Class).\nMy research trajectory has evolved from Multimodal CV-NLP, with a specific focus on explainable image forgery detection and multimodal fact verification, to my current specialization in Multimodal Emotion Recognition and AI Persona. I am particularly interested in developing agentic frameworks, such as ADEPT (Agentic Decoding of Emotion via Probing Tools), which leverage MLLMs and reinforcement learning (GRPO) to generate evidence-grounded rationales for emotional ambiguity."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Esther Sun ",
+    "section": "Education",
+    "text": "Education\n\n\n\n\nCarnegie Mellon University\nMaster Student | 📍 Pittsburgh, PA\nFocus: Multimodal Machine Learning\n\n\n\n\n\nUniversity of Toronto\nHonors B.Sc. | 📍 Toronto, Canada\nDouble Major: Computer Science & Statistical Science\n\n\n\n\n\nTsinghua University\nExchange Student | IIIS (Yao Class) | 📍 Beijing, China"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Esther Sun ",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\n\nICML 2026 Under Review\n\nADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning\nFirst Author\nAgentic LLM reasoning · Tool-augmented inference · RL alignment (GRPO)\n\n\n\n\n\n\nICASSP 2026 Accepted\n\nRecovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration\nFirst Author\nDiscrete Audio Tokenization · Multi-layer Attention Fusion · SSL · Neural Codecs\n\n\n\n\n\n\nNeurIPS 2025 Workshop Accepted\n\nSystematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications\nFirst Author | 🔗 Paper\nAI Companionship · Embodied Intelligence · Technical Taxonomy\n\n\n\n\n\n\nIEEE TPAMI 2024 Under Review\n\nForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization\nCo-author\nFine-grained forgery localization · Vision–language reasoning · Multimodal LLM grounding\n\n\n\n\n\n\nACM MM 2023 Accepted\n\nECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification\nCo-author\nDual-granularity Attention · Cross-modal Alignment · Hierarchical Reasoning\n\n\n\n\n\n\nAAAI 2023 Accepted\n\nUnimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification\nCo-author\nMultimodal feature engineering · Cross-modal correlation learning"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Esther Sun ",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n\n\n\nData Scientist Intern — Moneris\n📍 Toronto, Canada · May 2022 – Sep 2023 (16-month)\nMachine Learning Systems · Imbalanced Learning · Feature Engineering · Production ML Pipelines\n\n\n\n\n\nArt Studio Assistant\nSummer 2019\nIllustration & Visual Storytelling · Visual Design · Color Composition"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "ICML 2026 Under Review\n\nADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning\nFirst Author\nAgentic LLM reasoning · Tool-augmented inference · RL alignment (GRPO)\n\nTL;DR: Proposes ADEPT, a pioneering agentic framework that transforms Speech Emotion Recognition (SER) from a static classification task into an active, evidence-grounded reasoning process using RL-aligned MLLMs. Crucially, ADEPT enables a paradigm shift from consensus learning to ambiguity-driven emotion reasoning.\n\nKey Points:\n\nAgentic Framework: Developed an autonomous MLLM-based agent capable of dynamic tool-use, programmatically invoking a specialized toolkit of semantic and acoustic probes to analyze paralinguistic cues.\nEvidence-Grounded Rationalization: Enables the generation of high-fidelity rationales anchored in physical acoustic evidence—such as pitch trajectories and energy profiles—to mitigate inherent linguistic bias and enhance interpretability.\nReinforcement Learning Alignment: Implemented Group Relative Policy Optimization (GRPO) to align the agent’s multi-step reasoning trajectories with human-expert consensus and logical rigor.\nAmbiguity-Driven Reasoning: Systematically addresses annotator disagreement by modeling emotional ambiguity through a multi-turn, consensus-driven inquiry process, improving robustness on challenging datasets like MSP-Podcast and IEMOCAP.\n\n\n\n\n\n\n\n\n\nICASSP 2026 Accepted\n\nRecovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration\nFirst Author\nDiscrete Audio Tokenization · Multi-layer Attention Fusion · SSL · Neural Codecs\n\nTL;DR: Introduces a multi-layer fusion framework to recover the significant performance loss in Speech Emotion Recognition (SER) caused by audio discretization, enabling semantic-rich discrete tokens to rival high-fidelity continuous features.\n\nKey Points:\n\nPerformance Recovery: Developed a novel framework that recovers 75% of the performance drop induced by discretization by integrating multi-layer WavLM tokens with 74-dimensional openSMILE paralinguistic features.\nArchitecture Innovation: Designed and benchmarked dual fusion strategies—Layer-First and Modality-First—achieving an 8% gain with the Layer-First approach by prioritizing hierarchical feature extraction.\nAblation & Trade-offs: Conducted systematic studies across 24 WavLM layers and 5 codebook sizes (K=256 to 4000) to identify optimal compression-accuracy trade-offs for emotion preservation.\nNeural Codec Benchmarking: Evaluated against three major neural codecs (SpeechTokenizer, DAC, and EnCodec), demonstrating that semantic-rich SSL tokens provide a 50%+ performance advantage over reconstruction-focused models for downstream SER tasks.\n\n\n\n\n\n\n\n\n\n\n\n\nNeurIPS 2025 Workshop Accepted\n\nSystematizing LLM Persona Design: A Four-Quadrant Technical Taxonomy for AI Companion Applications\nFirst Author | 🔗 Paper\nAI Companionship · Embodied Intelligence · Technical Taxonomy\n\nTL;DR: Systematizes the fragmented landscape of AI persona design by introducing a novel four-quadrant technical taxonomy that maps companion applications from virtual agents to embodied systems, providing actionable design guidelines for researchers and practitioners.\n\nKey Points:\n\nFour-Quadrant Taxonomy: Proposed a systematic framework categorizing AI companions along two orthogonal axes—embodiment level and interaction modality—to clarify design trade-offs across diverse application domains.\nTechnical Design Patterns: Identified and documented recurring architectural patterns for persona consistency, memory management, and emotional coherence across 50+ commercial and research systems.\nEmbodiment Spectrum Analysis: Analyzed the progression from text-only virtual companions to fully embodied robotic agents, mapping key technical challenges at each stage of the embodiment continuum.\nActionable Guidelines: Synthesized practical design recommendations for balancing persona authenticity, user safety, and system scalability in real-world AI companion deployments.\n\n\n\n\n\n\n\n\n\n\n\n\nIEEE TPAMI 2024 Under Review\n\nForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization\nCo-author\nFine-grained forgery localization · Vision–language reasoning · Multimodal LLM grounding\n\nTL;DR: Leverages Multimodal LLMs to pioneer an explainable image forgery detection and localization system that generates natural language rationales for identified visual manipulations.\n\nKey Points:\n\nHybrid Vision Architecture: Developed a “Vocabulary-enhanced Vision Encoder” integrating a trainable ViT with a frozen CLIP encoder to capture fine-grained, domain-specific forgery artifacts.\nAdaptive Forgery Prompting: Proposed an “Object-agnostic Forgery Prompt” mechanism using 12-dimensional learnable embeddings to enable dynamic adaptation across diverse forgery scenarios, achieving a 15% improvement over baselines.\nLarge-Scale Synthesis Pipeline: Constructed a comprehensive 768K+ multimodal dataset using a multi-granularity mask generation pipeline that combines random segmentation with Segment Anything Model (SAM) techniques.\nExplainable Localization: Contributed the FL-Expert module to provide precise spatial localization coupled with linguistic explanations of splicing, copy-move, and removal manipulations.\n\n\n\n\n\n\n\n\n\n\n\n\nACM MM 2023 Accepted\n\nECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification\nCo-author\nDual-granularity Attention · Cross-modal Alignment · Hierarchical Reasoning\n\nTL;DR: Introduces a state-of-the-art multimodal fact verification framework that utilizes dual-granularity attention and hierarchical reasoning to generate evidence-based justifications for news veracity.\n\nKey Points:\n\nDual-Granularity Attention: Engineered an Improved Coarse- and Fine-grained Attention Network (CFgAN) that enhanced contextual comprehension of image-text correlations by 12.1%.\nHierarchical Reasoning Framework: Developed a unified architecture for feature extraction and cross-modal fusion, enabling the system to perform complex evidence-based inference.\nBenchmark Leadership: Achieved SOTA performance on major benchmarks, including 87.7% accuracy on NewsCLIPpings and an 81.5 F1-score on FACTIFY.\nJustification Generation: Focused on “explainability” by ensuring the network provides logical justifications alongside its verification results, as showcased in oral and poster presentations at ACM MM 2023.\n\n\n\n\n\n\n\n\n\nAAAI 2023 Accepted\n\nUnimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification\nCo-author\nMultimodal feature engineering · Cross-modal correlation learning"
+  },
+  {
+    "objectID": "artwork.html#dinosaur",
+    "href": "artwork.html#dinosaur",
+    "title": "Artwork",
+    "section": "Dinosaur",
+    "text": "Dinosaur"
+  },
+  {
+    "objectID": "artwork.html#random",
+    "href": "artwork.html#random",
+    "title": "Artwork",
+    "section": "Random",
+    "text": "Random"
+  }
+]

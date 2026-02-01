@@ -1,0 +1,169 @@
+---
+title: "Artwork"
+---
+
+## Watercolor
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+![](paintings/IMG_9586.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9590.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9591.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9592.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9593.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9595.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9596.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9597.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9599.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9600.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9601.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9602.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9604.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_9605.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/625ed786a65ed3401ff58b2fea7feabf.JPG)
+:::
+
+:::
+
+## Dinosaur
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2016.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2017.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2018.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2019.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/因为弃坑到现在还没有身体的三角龙.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/我很秃但我不说的阿尔伯塔龙.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/热爱喝酒烫头做美甲的霸王龙.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/dino.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_3557.jpg)
+:::
+
+:::
+
+## Random
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+![](paintings/IMG_3751.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_2687.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2020.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2028.PNG)
+:::
+
+::: {.gallery-item}
+![](paintings/2b53b02c38ccf20e826c0bfe35327426.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/99b6fb16610221557bd1220cf6bd7d26.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/e33dd5dc3644e83f944c3bafbce1072a.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/animals.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_7101.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_4574.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_4575.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2021.jpg)
+:::
+
+::: {.gallery-item}
+![](paintings/Untitled_Artwork%2022.jpg)
+:::
+
+:::

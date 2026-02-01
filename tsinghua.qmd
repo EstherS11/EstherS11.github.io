@@ -1,0 +1,143 @@
+---
+title: ""
+---
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_4009.JPG)
+
+::: {.gallery-caption}
+**📍 With the IIIS Department Football Team**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_4536.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_4543.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7546.JPG)
+
+::: {.gallery-caption}
+**📍 Photo with Turing Award winner Andrew Yao**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7081.JPG)
+
+::: {.gallery-caption}
+**📍 Host of the Tsinghua Ma John Cup Football Final**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7092.JPG)
+
+::: {.gallery-caption}
+**📍 Host of the Tsinghua Ma John Cup Football Final**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_2080.JPG)
+
+::: {.gallery-caption}
+**📍 Conference Photographer for MECC 2025**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_0123.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_1261.jpg)
+
+::: {.gallery-caption}
+**📍 Soccer Referee in Tsinghua**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_1267.jpg)
+
+::: {.gallery-caption}
+**📍 Soccer Referee in Tsinghua**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_8513.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7090.jpg)
+
+::: {.gallery-caption}
+**📍 Poster presentation in ACM MM 2023 Owatta**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7883%202.JPG)
+
+::: {.gallery-caption}
+**📍 Oral presentation in ACM MM 2023 Owatta**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_0046%202.JPG)
+
+::: {.gallery-caption}
+**📍 Oral presentation in ACM MM 2023 Owatta**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7093.jpg)
+
+::: {.gallery-caption}
+**📍 ICML 2025, Vancouver**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7094.jpg)
+
+::: {.gallery-caption}
+**📍 ICML 2025, Vancouver**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7095.jpg)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7850%202.jpg)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7096.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7097.JPG)
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7098.JPG)
+
+::: {.gallery-caption}
+**📍 Student representative for ACM Canadian Celebration of Women in Computing Conference, Toronto**
+:::
+:::
+
+:::
