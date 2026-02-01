@@ -11,6 +11,14 @@ title-block-style: none
 
 ::: {.column width="40%"}
 ![](ES.png)
+
+::: {.quick-links}
+📌 [See my publications](publications.html)
+
+🎞️ [See my highlights](tsinghua.html)
+
+🎨 [See my artwork](artwork.html)
+:::
 :::
 
 ::: {.column width="60%"}
