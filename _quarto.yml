@@ -29,6 +29,9 @@ format:
     css: styles.css
     toc: false
     page-layout: full
+    include-in-header:
+      - text: |
+          <meta name="google-site-verification" content="XqrX_OWYSncEqBaOc2IgL4MwGkdseD3wsV3Cgcx8ANg" />
 
 
 
