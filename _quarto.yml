@@ -3,8 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Esther Sun"
+  description: "Esther Sun - Master's student at Carnegie Mellon University, specializing in Multimodal Machine Learning, Emotion Recognition, and AI Persona research."
+  site-url: https://esthers11.github.io
   favicon: "logos/Untitled_Artwork 26.png"
+  open-graph: true
+  twitter-card: true
   navbar:
     logo: "logos/Untitled_Artwork 26.png"
     left:

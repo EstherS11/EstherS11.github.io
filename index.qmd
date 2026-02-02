@@ -1,6 +1,7 @@
 ---
 title: "Home"
 title-block-style: none
+description: "Esther Sun - Master's student at Carnegie Mellon University, specializing in Multimodal Machine Learning, Emotion Recognition, and AI Persona research."
 ---
 
 ::: {.name-header}
