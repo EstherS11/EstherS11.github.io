@@ -147,10 +147,6 @@ title: "Artwork"
 :::
 
 ::: {.gallery-item}
-![](paintings/IMG_7101.JPG)
-:::
-
-::: {.gallery-item}
 ![](paintings/IMG_4574.jpg)
 :::
 
