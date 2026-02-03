@@ -166,4 +166,12 @@ title: "Artwork"
 ![](paintings/Untitled_Artwork%2022.jpg)
 :::
 
+::: {.gallery-item}
+![](paintings/IMG_7238.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/IMG_7246.jpg)
+:::
+
 :::
