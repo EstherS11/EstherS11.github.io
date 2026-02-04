@@ -27,10 +27,12 @@ First Author
 ::: {.pub-keypoints}
 **Key Points:**
 
-- **Agentic Framework:** Developed an autonomous MLLM-based agent capable of dynamic tool-use, programmatically invoking a specialized toolkit of semantic and acoustic probes to analyze paralinguistic cues.
-- **Evidence-Grounded Rationalization:** Enables the generation of high-fidelity rationales anchored in physical acoustic evidence—such as pitch trajectories and energy profiles—to mitigate inherent linguistic bias and enhance interpretability.
-- **Reinforcement Learning Alignment:** Implemented Group Relative Policy Optimization (GRPO) to align the agent's multi-step reasoning trajectories with human-expert consensus and logical rigor.
-- **Ambiguity-Driven Reasoning:** Systematically addresses annotator disagreement by modeling emotional ambiguity through a multi-turn, consensus-driven inquiry process, improving robustness on challenging datasets like MSP-Podcast and IEMOCAP.
+- **Autonomous Agentic Framework:** Engineered an MLLM-based autonomous agent designed for multi-turn Speech Emotion Recognition (SER). The framework redefines emotion inference as an iterative inquiry process, where the agent programmatically orchestrates a specialized toolkit of semantic and acoustic probes to decode complex paralinguistic cues.
+- **Evidence-Grounded Rationalization:** Developed a retrieval-augmented rationalization mechanism that anchors model predictions in verifiable physical evidence. By extracting and analyzing pitch trajectories, energy profiles, and spectral centroids, the system effectively mitigates text-biased hallucinations and provides high-fidelity, auditable reasoning traces.
+- **Reinforcement Learning Alignment (GRPO):** Implemented Group Relative Policy Optimization (GRPO) to refine the agent's multi-step decision-making trajectories. This alignment strategy optimizes the policy-driven evidence acquisition process, rewarding logical rigor and penalizing non-informative tool invocations to ensure the reasoning path aligns with human-expert diagnostic standards.
+- **Ambiguity-Driven Reasoning:** Formulated a novel approach to address the "Consensus Paradox" by treating annotator disagreement as a valuable supervision signal rather than noise. By modeling emotional ambiguity through a consensus-driven inquiry process, the framework significantly improves robustness and recovery of co-occurring minor emotions on benchmark datasets including MSP-Podcast and IEMOCAP.
+
+This work explores how agentic multimodal models can move beyond pattern recognition toward verifiable, evidence-grounded reasoning under perceptual ambiguity.
 :::
 :::
 :::
