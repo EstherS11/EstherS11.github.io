@@ -31,9 +31,9 @@ I am a Master's student at **Carnegie Mellon University** (Class of 2026), where
 My research trajectory has evolved from Multimodal CV-NLP, with a specific focus on explainable image forgery detection and multimodal fact verification, to my current specialization in [**Multimodal Emotion Recognition**]{.highlight-bold} and [**AI Persona**]{.highlight-bold}. I am particularly interested in developing agentic frameworks, such as ADEPT (Agentic Decoding of Emotion via Probing Tools), which leverage MLLMs and reinforcement learning (GRPO) to generate evidence-grounded rationales for emotional ambiguity.
 
 ::: {.social-links}
-[🎓 Google Scholar](https://scholar.google.com/citations?user=XJFMJkwAAAAJ&hl=en){.social-link}
-[💼 LinkedIn](https://www.linkedin.com/in/esther-sun-591212219/){.social-link}
-[✉️ Email](mailto:esthers@andrew.cmu.edu){.social-link}
+[![](icon/google_scholar_icon_130918.webp){.social-icon}Google Scholar](https://scholar.google.com/citations?user=XJFMJkwAAAAJ&hl=en){.social-link}
+[![](icon/linkedin.avif){.social-icon}LinkedIn](https://www.linkedin.com/in/esther-sun-591212219/){.social-link}
+[![](icon/email.png){.social-icon}Email](mailto:esthers@andrew.cmu.edu){.social-link}
 :::
 :::
 :::

@@ -616,6 +616,12 @@ h2 a:hover {
   transition: all 0.2s ease;
 }
 
+.social-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+
 .social-link:hover {
   background: #94373c;
   color: #fff;
