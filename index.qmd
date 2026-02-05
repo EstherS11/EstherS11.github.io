@@ -8,12 +8,6 @@ description: "Esther Sun - Master's student at Carnegie Mellon University, speci
 # Esther Sun ![](logos/2600.png){.name-icon}
 :::
 
-::: {.social-links}
-[🎓 Google Scholar](https://scholar.google.com/citations?user=XJFMJkwAAAAJ&hl=en){.social-link}
-[💼 LinkedIn](https://www.linkedin.com/in/esther-sun-591212219/){.social-link}
-[✉️ Email](mailto:esthers@andrew.cmu.edu){.social-link}
-:::
-
 ::: {.columns}
 
 ::: {.column width="40%"}
@@ -35,6 +29,12 @@ description: "Esther Sun - Master's student at Carnegie Mellon University, speci
 I am a Master's student at **Carnegie Mellon University** (Class of 2026), where I focus on Multimodal Machine Learning. I am privileged to be supervised by [Prof. Carlos Busso](https://carlosbusso.com/). My academic journey began at the **University of Toronto**, where I earned an Honors Bachelor of Science with a double major in Computer Science and Statistical Science. During my undergraduate years, I also spent time as an exchange student at **Tsinghua University's** Institute for Interdisciplinary Information Sciences (IIIS/Yao Class).
 
 My research trajectory has evolved from Multimodal CV-NLP, with a specific focus on explainable image forgery detection and multimodal fact verification, to my current specialization in [**Multimodal Emotion Recognition**]{.highlight-bold} and [**AI Persona**]{.highlight-bold}. I am particularly interested in developing agentic frameworks, such as ADEPT (Agentic Decoding of Emotion via Probing Tools), which leverage MLLMs and reinforcement learning (GRPO) to generate evidence-grounded rationales for emotional ambiguity.
+
+::: {.social-links}
+[🎓 Google Scholar](https://scholar.google.com/citations?user=XJFMJkwAAAAJ&hl=en){.social-link}
+[💼 LinkedIn](https://www.linkedin.com/in/esther-sun-591212219/){.social-link}
+[✉️ Email](mailto:esthers@andrew.cmu.edu){.social-link}
+:::
 :::
 :::
 
