@@ -235,6 +235,11 @@ main.content {
   color: #303f9f;
 }
 
+.venue-interspeech {
+  background: #e1f5fe;
+  color: #0277bd;
+}
+
 /* Status colors */
 .status-accepted {
   background: #e8f5e9;
@@ -254,6 +259,11 @@ main.content {
 .status-workshop {
   background: #eceff1;
   color: #546e7a;
+}
+
+.status-working {
+  background: #e3f2fd;
+  color: #1976d2;
 }
 
 .pub-item p {
