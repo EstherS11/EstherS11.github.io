@@ -16,10 +16,7 @@ First Author
 [Hierarchical Emotion Modeling]{.keyword} · [Cross-Model Distillation]{.keyword} · [Explainable SER]{.keyword}
 
 ::: {.pub-keypoints}
-**Key Points:**
-
-- **Hierarchical Emotion & Rationale Modeling:** Designed a hierarchical emotion supervision pipeline using annotator disagreement signals to model ambiguous emotions and generate explainable rationales for speech emotion recognition.
-- **Cross-Model Distillation & Optimization:** Implemented LoRA-based distillation from Qwen-3-Omni to Qwen-2-Audio, improving Primary Macro-F1 by 3.6% and achieving 54.3% Soft Recall on multi-emotion prediction.
+**Key Points:** TBD
 :::
 :::
 :::
