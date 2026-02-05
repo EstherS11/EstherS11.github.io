@@ -5,6 +5,8 @@ title: "Publications"
 ::: {.pub-page-list}
 
 ::: {.pub-page-item #minority}
+![](paper_pics/TBD.png){.pub-page-img}
+
 ::: {.pub-page-content}
 ::: {.pub-tags}
 [Interspeech 2026]{.venue .venue-interspeech} [Working on]{.status .status-working}
