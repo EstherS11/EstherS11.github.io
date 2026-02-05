@@ -8,6 +8,12 @@ description: "Esther Sun - Master's student at Carnegie Mellon University, speci
 # Esther Sun ![](logos/2600.png){.name-icon}
 :::
 
+::: {.social-links}
+[🎓 Google Scholar](https://scholar.google.com/citations?user=XJFMJkwAAAAJ&hl=en){.social-link}
+[💼 LinkedIn](https://www.linkedin.com/in/esther-sun-591212219/){.social-link}
+[✉️ Email](mailto:esthers@andrew.cmu.edu){.social-link}
+:::
+
 ::: {.columns}
 
 ::: {.column width="40%"}
