@@ -153,7 +153,7 @@ Co-author | [🔗 Paper](https://arxiv.org/abs/2410.10238)
 :::
 [**ECENet: Explainable and Context-Enhanced Network for Multimodal Fact Verification**](publications.html#ecenet)
 
-Co-author
+Co-author | [🔗 Paper](https://dl.acm.org/doi/10.1145/3581783.3612183)
 
 [Dual-granularity Attention]{.keyword} · [Cross-modal Alignment]{.keyword} · [Hierarchical Reasoning]{.keyword}
 :::
@@ -168,7 +168,7 @@ Co-author
 :::
 [**Unimodal Feature-Enhanced and Cross-Modal Correlation Learning for Multimodal Fact Verification**](publications.html#aaai)
 
-Co-author
+Co-author | [🔗 Paper](https://ceur-ws.org/Vol-3555/paper16.pdf)
 
 [Multimodal feature engineering]{.keyword} · [Cross-modal correlation learning]{.keyword}
 :::
