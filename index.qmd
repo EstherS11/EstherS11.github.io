@@ -108,7 +108,7 @@ First Author
 :::
 [**Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration**](publications.html#recovering)
 
-First Author
+First Author | [🔗 Paper](https://arxiv.org/abs/2601.17085)
 
 [Discrete Audio Tokenization]{.keyword} · [Multi-layer Attention Fusion]{.keyword} · [SSL]{.keyword} · [Neural Codecs]{.keyword}
 :::
