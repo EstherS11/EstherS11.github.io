@@ -138,7 +138,7 @@ First Author | [🔗 Paper](https://arxiv.org/abs/2511.02979)
 :::
 [**ForgeryGPT: Multimodal Large Language Model for Explainable Image Forgery Detection and Localization**](publications.html#forgerygpt)
 
-Co-author
+Co-author | [🔗 Paper](https://arxiv.org/abs/2410.10238)
 
 [Fine-grained forgery localization]{.keyword} · [Vision–language reasoning]{.keyword} · [Multimodal LLM grounding]{.keyword}
 :::
