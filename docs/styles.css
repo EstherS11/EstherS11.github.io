@@ -90,6 +90,10 @@ main.content {
   font-size: 0.9em;
 }
 
+.about-text strong {
+  color: #94373c;
+}
+
 .columns .column p {
   margin-top: 0;
 }
