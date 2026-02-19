@@ -11,7 +11,7 @@ title: "Publications"
 ::: {.pub-tags}
 [Interspeech 2026]{.venue .venue-interspeech} [Working on]{.status .status-working}
 :::
-**Learning from Minority Perception: Improving Explainable SER via Rationale Fine-tuning**
+**Towards Comprehensive Emotional Characterization: Ambiguity-Aware Emotion Reasoning in Speech**
 
 First Author
 
