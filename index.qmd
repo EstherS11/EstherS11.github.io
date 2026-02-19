@@ -93,7 +93,7 @@ Exchange Student | IIIS (Yao Class) | 📍 Beijing, China
 :::
 [**ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning**](publications.html#adept)
 
-First Author
+First Author | [🔗 Paper](https://arxiv.org/abs/2602.12714)
 
 [Agentic LLM reasoning]{.keyword} · [Tool-augmented inference]{.keyword} · [RL alignment (GRPO)]{.keyword}
 :::

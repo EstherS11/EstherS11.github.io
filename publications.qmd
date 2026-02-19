@@ -36,7 +36,7 @@ First Author
 :::
 **ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning**
 
-First Author
+First Author | [🔗 Paper](https://arxiv.org/abs/2602.12714)
 
 [Agentic LLM reasoning]{.keyword} · [Tool-augmented inference]{.keyword} · [RL alignment (GRPO)]{.keyword}
 
