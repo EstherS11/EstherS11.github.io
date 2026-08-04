@@ -260,6 +260,11 @@ main.content {
   color: #c62828;
 }
 
+.status-spotlight {
+  background: #f3e5f5;
+  color: #7b1fa2;
+}
+
 .status-workshop {
   background: #eceff1;
   color: #546e7a;

@@ -32,7 +32,7 @@ First Author
 
 ::: {.pub-page-content}
 ::: {.pub-tags}
-[ICML 2026]{.venue .venue-icml} [Under Review]{.status .status-review}
+[ICML 2026]{.venue .venue-icml} [Spotlight]{.status .status-spotlight}
 :::
 **ADEPT: RL-Aligned Agentic Decoding of Emotion via Evidence Probing Tools — From Consensus Learning to Ambiguity-Driven Emotion Reasoning**
 
