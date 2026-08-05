@@ -104,7 +104,7 @@ First Author | [🔗 Paper](https://arxiv.org/abs/2602.12714)
 
 ::: {.pub-content}
 ::: {.pub-tags}
-[ICASSP 2026]{.venue .venue-icassp} [Accepted]{.status .status-accepted}
+[ICASSP 2026]{.venue .venue-icassp} [Oral]{.status .status-oral} [Accepted]{.status .status-accepted}
 :::
 [**Recovering Performance in Speech Emotion Recognition from Discrete Tokens via Multi-Layer Fusion and Paralinguistic Feature Integration**](publications.html#recovering)
 
