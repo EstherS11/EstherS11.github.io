@@ -110,6 +110,40 @@ title: "Artwork"
 
 :::
 
+## Pottery
+
+::: {.gallery-container}
+
+::: {.gallery-item}
+![](paintings/pottery/8017d1d7114c823cffdbc673ccc1a5.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/8c4773db7ce15ea62cbb65e46246d1.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/858e68e80314a6c263e7badeedf23c.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/89a58c6f3dfd64bf97e22da0c82cd1.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/fc296c676f55351289e3db91fcae8f.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/24172d6b0c87187e03bdcdcef7219e.JPG)
+:::
+
+::: {.gallery-item}
+![](paintings/pottery/dd2b7a9bd9c02fc652b2700af66592.jpg)
+:::
+
+:::
+
 ## Random
 
 ::: {.gallery-container}
