@@ -133,13 +133,13 @@ main.content {
 /* Photo Gallery */
 .gallery-container {
   column-count: 3;
-  column-gap: 15px;
-  margin-top: 20px;
+  column-gap: 8px;
+  margin-top: 16px;
 }
 
 .gallery-item {
   break-inside: avoid;
-  margin-bottom: 15px;
+  margin-bottom: 8px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
@@ -148,6 +148,11 @@ main.content {
 
 .gallery-item:hover {
   transform: scale(1.02);
+}
+
+/* Pottery: small objects, denser grid so columns stay even */
+.gallery-container.pottery-grid {
+  column-count: 4;
 }
 
 .gallery-item img {
