@@ -140,4 +140,28 @@ title: ""
 :::
 :::
 
+::: {.gallery-item}
+![](tsinghua_pics/IMG_8039.jpg)
+
+::: {.gallery-caption}
+**📍 ICML 2026, Coex, Seoul**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_8089.jpg)
+
+::: {.gallery-caption}
+**📍 Spotlight poster presentation of ADEPT at ICML 2026, Seoul**
+:::
+:::
+
+::: {.gallery-item}
+![](tsinghua_pics/IMG_7992.jpg)
+
+::: {.gallery-caption}
+**📍 Spotlight poster presentation of ADEPT at ICML 2026, Seoul**
+:::
+:::
+
 :::
